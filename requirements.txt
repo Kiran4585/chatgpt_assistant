@@ -1,0 +1,4 @@
+python
+streamlit
+gemini apikey
+google-generativeai
