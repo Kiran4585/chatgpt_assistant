@@ -1,4 +1,4 @@
-python
 streamlit
-gemini apikey
-google-generativeai
+openai
+requests
+google-api-python-client
