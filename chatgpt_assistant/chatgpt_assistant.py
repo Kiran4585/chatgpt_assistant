@@ -17,7 +17,7 @@ def Reply(question):
     return response.text if response else "No response from Gemini AI."
 
 # Streamlit Web App
-st.title("💬 ChatGPT AI Assistant")
+st.title("💬 Smart AI Assistant")
 
 query = st.text_input("Ask me anything:", "")
 if st.button("Submit"):
