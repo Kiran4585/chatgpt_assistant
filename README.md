@@ -1,14 +1,14 @@
 # 💬 AI ChatGPT-Style Assistant with Streamlit
 
-This project is a simple AI-powered chat assistant built using **Streamlit** and Google's **Gemini API**. It allows users to interact with an AI model in a ChatGPT-style interface and can also open common websites like YouTube and Google based on voice commands.
+This project is a simple AI-powered chat assistant built using **Streamlit** and Google's **Gemini API**. It allows users to interact with an AI model in a ChatGPT-style interface for seamless conversations.
 
 ---
 
 ## 📌 Features
 
 - 🔍 Ask any question and get AI-powered responses.
-- 🌐 Open popular websites like YouTube and Google through simple commands.
 - ⚡ Fast and easy-to-use Streamlit interface.
+- 🔒 Secure API key management.
 
 ---
 
