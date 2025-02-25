@@ -1,6 +1,5 @@
 import os
 import streamlit as st
-import webbrowser
 import google.generativeai as genai
 
 # Load Google Gemini API Key
@@ -26,10 +25,4 @@ if st.button("Submit"):
         response = Reply(query)
         st.write(f"💬 Response: {response}")
 
-        # Handle web commands
-        if "open youtube" in query.lower():
-            webbrowser.open("https://www.youtube.com")
-        elif "open google" in query.lower():
-            webbrowser.open("https://www.google.com")
-        elif "bye" in query.lower():
-            st.write("👋 Goodbye!")
+
