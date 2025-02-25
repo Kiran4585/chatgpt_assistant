@@ -2,3 +2,4 @@ streamlit
 openai
 requests
 google-api-python-client
+google-generativeai
